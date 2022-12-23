@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BacteriaCountComputation", "BacteriaCountComputation\BacteriaCountComputation.pyproj", "{20C0A95D-B1C8-4B8A-9924-A013D9D4A95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C0A95D-B1C8-4B8A-9924-A013D9D4A95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C0A95D-B1C8-4B8A-9924-A013D9D4A95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCE27AC4-64EC-46B7-92B0-19EB71E564C3}
+	EndGlobalSection
+EndGlobal
